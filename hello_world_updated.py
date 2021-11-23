@@ -1,0 +1,5 @@
+print("Hello, World!")
+print("By: Logan Sweeney")
+print("I am hoping to get a career in Programming!")
+print("Hey, Colin! See you when you're at home")
+print("I want to make a game one day")
